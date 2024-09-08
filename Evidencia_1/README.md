@@ -20,7 +20,8 @@
   - Inserción de datos en la base de datos.
   - Consultas solicitadas para la evidencia.
 
-![Imagen del Proyecto](Evidencia_1/Base de Datos/Encordadora_DB_CROWFOOT.png)  
+![Imagen del Proyecto](https://github.com/Cesiaf/TSDS/blob/main/Evidencia_1/Base%20de%20Datos/Encordadora_DB_CROWFOOT.png?raw=true)
 
 **Ver el video relacionado con el proyecto aquí:**
 [Acceso al video](https://drive.google.com/file/d/1MhmYroyVoJE7Fi0mKVQYq5pwZVl4fdyh/view?usp=sharing)
+
